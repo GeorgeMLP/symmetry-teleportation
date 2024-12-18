@@ -22,7 +22,7 @@ This repository is based on the [Symmetry Teleportation repository](https://gith
 
 For more information on symmetry teleportation, refer to the following publications:
 
-- Meng, Q., Zheng, S., Zhang, H., Chen, W., Ma, Z. M., Liu, T. Y. (2018). *$\mathcal{G}$-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space*. International Conference on Learning Representations.
+- Meng, Q., Zheng, S., Zhang, H., Chen, W., Ma, Z. M., Liu, T. Y. (2018). $\mathcal{G}$*-SGD: Optimizing ReLU Neural Networks in its Positively Scale-Invariant Space*. International Conference on Learning Representations.
 - Godfrey, C., Brown, D., Emerson, T., Kvinge, H. (2022). *On the Symmetries of Deep Learning Models and their Internal Representations*. Advances in Neural Information Processing Systems.
 - Zhao, B., Dehmamy, N., Walters, R., Yu, R. (2022). *Symmetry Teleportation for Accelerated Optimization*. Advances in Neural Information Processing Systems.
 - Zhao, B., Gower, R. M., Walters, R., Yu, R. (2024). *Improving Convergence and Generalization Using Parameter Symmetries*. International Conference on Learning Representations.
