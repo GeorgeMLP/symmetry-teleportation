@@ -5,6 +5,7 @@ This repository contains part of my course project for **EE 127BT: Convex Optimi
 - **`conv_opt.py`**: Demonstrates the application of symmetry teleportation to optimize a convex function, $f(x)=x^2+9y^2$.
 - **`relu_mlp.py`**: Applies symmetry teleportation to optimize a 3-layer ReLU neural network.
 - **`teleportation.py`**: Contains the core implementation of symmetry teleportation.
+- **`project_writeup.pdf`**: Contains the writeup of our project.
 
 ## Attribution
 
